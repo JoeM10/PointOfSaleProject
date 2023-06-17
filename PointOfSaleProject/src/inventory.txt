@@ -1,0 +1,4 @@
+#name,cost,quantity
+apple,0.50,15
+bananananana,0.75,10
+orange,1.0,5
